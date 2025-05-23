@@ -8,11 +8,11 @@ Key Features
 
 * Real-time video stream analysis using OpenCV**.
 * Custom CNN model** for eye-state classification (open/closed).
-* Histogram equalization** to improve accuracy under different lighting conditions.
-* Ensemble techniques** to enhance model robustness and reduce false positives.
+* Histogram equalization to improve accuracy under different lighting conditions.
+* Ensemble techniques to enhance model robustness and reduce false positives.
 * Audio alert system using **Flask** to warn the driver if drowsiness is detected.
 * Seamless deployment using **Streamlit** for interactive UI and monitoring.
-* Preprocessing and evaluation using NumPy**, Adam optimizer**, and confusion matrix.
+* Preprocessing and evaluation using NumPy, Adam optimizer**, and confusion matrix.
 
 Real-Life Applications
 
