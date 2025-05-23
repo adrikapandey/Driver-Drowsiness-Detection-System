@@ -6,8 +6,8 @@ The system is built using **Python** and integrates several powerful libraries i
 
 Key Features
 
-* Real-time video stream analysis using OpenCV**.
-* Custom CNN model** for eye-state classification (open/closed).
+* Real-time video stream analysis using **OpenCV**.
+* Custom **CNN model** for eye-state classification (open/closed).
 * Histogram equalization to improve accuracy under different lighting conditions.
 * Ensemble techniques to enhance model robustness and reduce false positives.
 * Audio alert system using **Flask** to warn the driver if drowsiness is detected.
@@ -16,11 +16,11 @@ Key Features
 
 Real-Life Applications
 
-* Automobile Safety Systems**: Integration into modern vehicles to alert drowsy drivers in real time.
-* Fleet Management**: Monitoring commercial drivers during long-haul trips to reduce accidents.
-* Public Transport Monitoring**: Enhancing safety in buses, trains, and taxis by ensuring drivers remain alert.
-* Driver Training Simulators**: Used in training modules to educate drivers on the dangers of fatigue.
-* Wearable Tech Integration**: Can be adapted into glasses or headsets for portable alert systems.
+* Automobile Safety Systems: Integration into modern vehicles to alert drowsy drivers in real time.
+* Fleet Management: Monitoring commercial drivers during long-haul trips to reduce accidents.
+* Public Transport Monitoring: Enhancing safety in buses, trains, and taxis by ensuring drivers remain alert.
+* Driver Training Simulators: Used in training modules to educate drivers on the dangers of fatigue.
+* Wearable Tech Integration: Can be adapted into glasses or headsets for portable alert systems.
 
 This project highlights the powerful combination of deep learning and computer vision to address real-world problems. It not only showcases technical skills in AI and software deployment but also demonstrates how technology can be used to save lives by preventing fatigue-related road accidents
 
